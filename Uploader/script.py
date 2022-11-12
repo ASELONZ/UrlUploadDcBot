@@ -44,15 +44,15 @@ I ᴀᴍ Pᴏᴡᴇʀғᴜʟ Uʀʟ Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ. Mᴜʟᴛiᴘʟ
 
 
     ABOUT_TEXT = """
-<b>♻️ Mʏ Nᴀᴍᴇ</b> : Url Uploader
+<b>Mʏ Nᴀᴍᴇ</b> : Url Uploader
 
-<b>🌀 Cᕼᴀɴɴᴇʟ</b> : <a href="https://t.me/defenderofthemultiverse">Cᕼᴀɴɴᴇʟ</a>
+<b>Cᕼᴀɴɴᴇʟ</b> : <a href="https://t.me/defenderofthemultiverse">Cᕼᴀɴɴᴇʟ</a>
 
-<b>🌺 Heroku</b> : <a href="https://thewarriorsreal">Gʀᴏᴜᴘ</a>
+<b>Gʀᴏᴜᴘ</b> : <a href="https://t.me/thewarriorsreal">Gʀᴏᴜᴘ</a>
 
-<b>  Oᴡɴᴇʀ :</b> <a href="https://Saurav3BV6SA9LLElon7Musk">Sᴀᴜʀᴀᴠ</a>
+<b>Oᴡɴᴇʀ :</b> <a href="https://t.me/Saurav3BV6SA9LLElon7Musk">Sᴀᴜʀᴀᴠ</a>
 
-<b>👲 Oᴡɴᴇʀ :</b> <a href="https://t.me/ANKIT3690">Aɴᴋiᴛ</a>
+<b>Oᴡɴᴇʀ :</b> <a href="https://t.me/ANKIT3690">Aɴᴋiᴛ</a>
 
 """
 
