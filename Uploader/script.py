@@ -28,34 +28,31 @@ class Translation(object):
     START_TEXT = """
 Hi {} 
 
-I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more information.
+I ᴀᴍ Pᴏᴡᴇʀғᴜʟ Uʀʟ Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ. Mᴜʟᴛiᴘʟᴇ Sᴏᴜʀᴄᴇ Sᴜᴘᴘᴏʀᴛ. Tᴏ sᴇᴇ /help ᴍᴏʀᴇ inғᴏʀᴍᴀᴛʜᴏɴ.
  
 """
 
     HELP_TEXT = """
 
-# Send me the Google Drive | ytdl | direct links.
+# Sᴇɴᴅ ᴍᴇ ᴛᕼᴇ Gᴏᴏɢʟᴇ Dʀiᴠᴇ | ʏᴛᴅʟ | ᴅiʀᴇᴄᴛ ʟʜɴᴋs.
 
-# Select the desired option.
+# Sᴇʟᴇᴄᴛ ᴛᕼᴇ ᴅᴇsiʀᴇᴅ ᴏᴘᴛiᴏɴ.
 
-# Then be relaxed your file will be uploaded soon..
- 
+# Tᕼᴇɴ ʙᴇ ʀᴇʟᴀxᴇᴅ ʏᴏᴜʀ ғiʟᴇ ᴡʜʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ sᴏᴏɴ..
+
 """
 
-# give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ Mʏ Nᴀᴍᴇ</b> : Url Uploader
 
-<b>🌀 Channel</b> : <a href="https://t.me/greymatter_bots">@GreyMatter's Bot</a>
+<b>🌀 Cᕼᴀɴɴᴇʟ</b> : <a href="https://t.me/defenderofthemultiverse">Cᕼᴀɴɴᴇʟ</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌺 Heroku</b> : <a href="https://thewarriorsreal">Gʀᴏᴜᴘ</a>
 
-<b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
+<b>  Oᴡɴᴇʀ :</b> <a href="https://Saurav3BV6SA9LLElon7Musk">Sᴀᴜʀᴀᴠ</a>
 
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
-
-<b>👲 Owner :</b> <a href="https://t.me/GreyMatter_Owner">@GreyMatter_Owner</a>
+<b>👲 Oᴡɴᴇʀ :</b> <a href="https://t.me/ANKIT3690">Aɴᴋiᴛ</a>
 
 """
 
