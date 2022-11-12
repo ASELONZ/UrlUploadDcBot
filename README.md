@@ -25,11 +25,9 @@ Bot using pyrogram libray!
 
 <details><summary>Deploy To Heroku</summary>
 <p>
-<p>browse bellow link with your forked link</p>
-
-<img src="https://www.herokucdn.com/deploy/button.svg" href="https://heroku.com/deploy?template=https://github.com/ASELONZ/UrlUploadDcBot">
-</p>
-</details>
+<a href="https://heroku.com/deploy?template=https://github.com/ASELONZ/UrlUploadDcBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 <details><summary>Deploy Locally</summary>
 <p>
